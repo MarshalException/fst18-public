@@ -2,7 +2,7 @@ language: java
 
 addons:
   sonarcloud:
-    organization: "sbaltes-github"
+    organization: "marshalexception-github"
     token: $SONAR_TOKEN
 
 script:
