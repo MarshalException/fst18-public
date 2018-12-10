@@ -1,5 +1,5 @@
 #mvn clean install sonar:sonar -Dsonar.host.url=https:/sonarqube.com -Dsonar.organization=marshalexception-github -Dsonar.login=SONARCLOUD-TOKEN
-
+#
 mvn sonar:sonar \
   -Dsonar.projectKey=marshalexception_fst18-public \
   -Dsonar.organization=marshalexception-github \
