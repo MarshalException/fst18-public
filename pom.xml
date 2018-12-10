@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <name>marshalexception_fst18-public</name>
-    <groupId>de.unitrier.st.fst18-public.marshalexception</groupId>
+    <groupId>de.unitrier.st.fst18-public.list</groupId>
     <artifactId>list</artifactId>
     <version>0.1</version>
     <url>https://github.com/sbaltes/fst18</url>
