@@ -6,7 +6,7 @@
     <groupId>de.unitrier.st.fst18-public.list</groupId>
     <artifactId>list</artifactId>
     <version>0.1</version>
-    <url>https://github.com/sbaltes/fst18</url>
+    <url>https://github.com/marshalexception/fst18-public</url>
 
     <properties>
         <!-- Project -->
